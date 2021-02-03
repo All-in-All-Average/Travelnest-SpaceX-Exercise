@@ -1,8 +1,9 @@
-Travelnest SpaceX Exercise
+TravelNest SpaceX Exercise
 Harry White 
 
 Readme
-To start server, run "npm start" from my-app, then http://localhost:3000 to view webapp
+First run "npm install" from TravelNest-Exercise to install dependencies.
+To start server, run "npm start" to , then http://localhost:3000 to view webapp
 Run "npm test" to run tests
 
 
