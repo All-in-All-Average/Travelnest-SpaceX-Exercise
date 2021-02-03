@@ -3,7 +3,7 @@ Harry White
 
 Readme
 First run "npm install" from TravelNest-Exercise to install dependencies.
-To start server, run "npm start" to , then http://localhost:3000 to view webapp
+To start server, run "npm start" to , then http://localhost:3000 to view web-app
 Run "npm test" to run tests
 
 
